@@ -1,0 +1,5770 @@
+[{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "BJORK",
+            "Duration": 30,
+            "FileId": "9577",
+            "FileUID": "4f4d3e9a-5658-4ded-8744-f54c3636ccdd",
+            "Link": "http://static.prsa.pl/music/4f4d3e9a-5658-4ded-8744-f54c3636ccdd.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:08:00",
+            "Title": "Army Of Me"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 30,
+            "FileId": "54327",
+            "FileUID": "295a3e68-e470-4fc0-b735-915ae52e83af",
+            "Link": "http://static.prsa.pl/music/295a3e68-e470-4fc0-b735-915ae52e83af.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:13:00",
+            "Title": "Down By The Water"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amon Tobin",
+            "Duration": 30,
+            "FileId": "655926",
+            "FileUID": "2b5c1fd0-3949-4e81-8468-4c24fab6c8b0",
+            "Link": "http://static.prsa.pl/music/2b5c1fd0-3949-4e81-8468-4c24fab6c8b0.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:16:00",
+            "Title": "Esthers"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MASSIVE ATTACK",
+            "Duration": 30,
+            "FileId": "52978",
+            "FileUID": "6379efe1-9a8b-4155-951a-470298dc8805",
+            "Link": "http://static.prsa.pl/music/6379efe1-9a8b-4155-951a-470298dc8805.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:19:00",
+            "Title": "Inertia Creeps"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Scratch Massive Feat Koudlam",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:24:00",
+            "Title": "Waiting For A Sign"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "LAMB",
+            "Duration": 30,
+            "FileId": "112974",
+            "FileUID": "e6b3a185-c936-40e3-9d73-803eed4d1deb",
+            "Link": "http://static.prsa.pl/music/e6b3a185-c936-40e3-9d73-803eed4d1deb.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:26:00",
+            "Title": "One"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tricky",
+            "Duration": 30,
+            "FileId": "283004",
+            "FileUID": "39d1bce8-7a86-47f4-be45-1dab04b20bf4",
+            "Link": "http://static.prsa.pl/music/39d1bce8-7a86-47f4-be45-1dab04b20bf4.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:30:00",
+            "Title": "Joseph"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:32:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 30,
+            "FileId": "655927",
+            "FileUID": "2dbd120d-7333-40a9-8e7d-49912dfd05ae",
+            "Link": "http://static.prsa.pl/music/2dbd120d-7333-40a9-8e7d-49912dfd05ae.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:33:00",
+            "Title": "Dissolve"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amon Tobin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:34:00",
+            "Title": "Esther's"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "655928",
+            "FileUID": "3e1f506a-50c6-4417-8ddd-a33284b9edec",
+            "Link": "http://static.prsa.pl/music/3e1f506a-50c6-4417-8ddd-a33284b9edec.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:36:00",
+            "Title": "Toy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "636883",
+            "FileUID": "e1a22ed4-b0ab-4ba1-84db-4328a53610f2",
+            "Link": "http://static.prsa.pl/music/e1a22ed4-b0ab-4ba1-84db-4328a53610f2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:38:00",
+            "Title": "Dance While You Shoot"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A",
+            "Duration": 30,
+            "FileId": "655929",
+            "FileUID": "16de00cb-23dc-418f-b6e7-8f6212efe8e5",
+            "Link": "http://static.prsa.pl/music/16de00cb-23dc-418f-b6e7-8f6212efe8e5.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:43:00",
+            "Title": "Ali R U OK"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Silent Strike",
+            "Duration": 30,
+            "FileId": "655930",
+            "FileUID": "a832ace3-7429-4164-9147-0a7b871c21b2",
+            "Link": "http://static.prsa.pl/music/a832ace3-7429-4164-9147-0a7b871c21b2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:48:00",
+            "Title": "Its Not Safe To Turn Off Your Computer (feat. EM)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Arca",
+            "Duration": 30,
+            "FileId": "655931",
+            "FileUID": "34bd3645-aeff-4d38-adac-c1996c82840f",
+            "Link": "http://static.prsa.pl/music/34bd3645-aeff-4d38-adac-c1996c82840f.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:52:00",
+            "Title": "Desafio"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Silent Strike feat. EM",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:55:00",
+            "Title": "It's Not Safe To Turn Off Your Computer (feat. EM)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SEVDALIZA",
+            "Duration": 30,
+            "FileId": "655932",
+            "FileUID": "8a763f91-8b31-4adc-90b3-5333a2713e1b",
+            "Link": "http://static.prsa.pl/music/8a763f91-8b31-4adc-90b3-5333a2713e1b.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:58:00",
+            "Title": "THE VALLEY"
+        }
+    ],
+    "Start": "Wed, 05 Jul 2017 22:00:00",
+    "Stop": "Wed, 05 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 30,
+            "FileId": "655933",
+            "FileUID": "4c2ca870-1e68-4787-8a18-6e1211b030ec",
+            "Link": "http://static.prsa.pl/music/4c2ca870-1e68-4787-8a18-6e1211b030ec.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:01:00",
+            "Title": "Speak"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 30,
+            "FileId": "655934",
+            "FileUID": "93c81f7b-ee02-40fb-9468-478faf15d47d",
+            "Link": "http://static.prsa.pl/music/93c81f7b-ee02-40fb-9468-478faf15d47d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:03:00",
+            "Title": "This Is My Hand"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Zola Jesus",
+            "Duration": 30,
+            "FileId": "655935",
+            "FileUID": "0610c66d-f0cc-4838-a3be-a93d82ffbdce",
+            "Link": "http://static.prsa.pl/music/0610c66d-f0cc-4838-a3be-a93d82ffbdce.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:09:00",
+            "Title": "Exhumed"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "THE KILLS",
+            "Duration": 30,
+            "FileId": "624628",
+            "FileUID": "58ab659d-ee7c-4c1a-b5e8-d6147a0ff672",
+            "Link": "http://static.prsa.pl/music/58ab659d-ee7c-4c1a-b5e8-d6147a0ff672.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:12:00",
+            "Title": "Siberian Nights"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "TRENTEMOLLER",
+            "Duration": 30,
+            "FileId": "655936",
+            "FileUID": "04541601-5b71-4161-99d0-fa670ad23bca",
+            "Link": "http://static.prsa.pl/music/04541601-5b71-4161-99d0-fa670ad23bca.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:18:00",
+            "Title": "My Conviction"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Débruit & Alsarah",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:22:00",
+            "Title": "Jibal Alnuba"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Men in Burka",
+            "Duration": 30,
+            "FileId": "655937",
+            "FileUID": "3e32b724-1db5-441a-8104-8a429983804e",
+            "Link": "http://static.prsa.pl/music/3e32b724-1db5-441a-8104-8a429983804e.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:22:00",
+            "Title": "Click Click Click"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Men in Burka",
+            "Duration": 30,
+            "FileId": "655938",
+            "FileUID": "63b9d7d4-b3be-4455-8bcb-0b8c453bd235",
+            "Link": "http://static.prsa.pl/music/63b9d7d4-b3be-4455-8bcb-0b8c453bd235.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:25:00",
+            "Title": "More Khala"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Débruit & Alsarah",
+            "Duration": 30,
+            "FileId": "655940",
+            "FileUID": "e0ba39c6-2e0d-4b62-9f3a-2e3e458c38f5",
+            "Link": "http://static.prsa.pl/music/e0ba39c6-2e0d-4b62-9f3a-2e3e458c38f5.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:28:00",
+            "Title": "Jibal alnuba"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Debruit & Istanbul",
+            "Duration": 30,
+            "FileId": "655941",
+            "FileUID": "3576cfe8-c427-43b6-b4e5-9dfd3df03df7",
+            "Link": "http://static.prsa.pl/music/3576cfe8-c427-43b6-b4e5-9dfd3df03df7.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:33:00",
+            "Title": "Çevreler"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Annasir",
+            "Duration": 30,
+            "FileId": "655942",
+            "FileUID": "ae951a93-4c36-4678-a617-74c929da033d",
+            "Link": "http://static.prsa.pl/music/ae951a93-4c36-4678-a617-74c929da033d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:36:00",
+            "Title": "Bol"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aisha Devi",
+            "Duration": 30,
+            "FileId": "655943",
+            "FileUID": "cf941ead-071b-46ab-9fde-13626b34d02a",
+            "Link": "http://static.prsa.pl/music/cf941ead-071b-46ab-9fde-13626b34d02a.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:40:00",
+            "Title": "1%"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PORTISHEAD",
+            "Duration": 30,
+            "FileId": "419710",
+            "FileUID": "7015bdc5-b35c-4724-97f7-c48909887c06",
+            "Link": "http://static.prsa.pl/music/7015bdc5-b35c-4724-97f7-c48909887c06.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:45:00",
+            "Title": "Chase the Tear"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "James Holden",
+            "Duration": 30,
+            "FileId": "543267",
+            "FileUID": "c0d8629a-f30a-421a-8bbf-c328eabd1ecd",
+            "Link": "http://static.prsa.pl/music/c0d8629a-f30a-421a-8bbf-c328eabd1ecd.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:53:00",
+            "Title": "Renata"
+        }
+    ],
+    "Start": "Wed, 05 Jul 2017 23:00:00",
+    "Stop": "Thu, 06 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Esa Williams, Auntie Flo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:11:00",
+            "Title": "I Want To Blow Your Mind feat Esa "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "AYIA",
+            "Duration": 30,
+            "FileId": "652173",
+            "FileUID": "7ed51db5-2bd8-4c94-bf42-554027a63d61",
+            "Link": "http://static.prsa.pl/music/7ed51db5-2bd8-4c94-bf42-554027a63d61.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:22:00",
+            "Title": "Ruins"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "aYia",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:24:00",
+            "Title": "Water Plant"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:27:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Knife",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:33:00",
+            "Title": "Stay Out Here (Paula Temple Percussion Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Débruit & Alsarah",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:36:00",
+            "Title": "Reve Du Niger"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ninos Du Brasil",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:38:00",
+            "Title": "Algo Ou Alguem Entre As Arvores"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Clap! Clap!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:41:00",
+            "Title": "Rainy Souls Gloomy Futures"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Clap! Clap!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:43:00",
+            "Title": "Burbuka"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:43:00",
+            "Title": "Quiet one"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Claire Boucher, Aristophanes, Grimes",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:44:00",
+            "Title": "Scream"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jessy Lanza ",
+            "Duration": 30,
+            "FileId": "623019",
+            "FileUID": "826dee7c-acad-46c4-856b-6b24d808f5e3",
+            "Link": "http://static.prsa.pl/music/826dee7c-acad-46c4-856b-6b24d808f5e3.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:44:00",
+            "Title": "It Means I love you"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Miss Red",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:51:00",
+            "Title": "Rollercoaster"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Miss Red",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:51:00",
+            "Title": "Fever"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Two Fingers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 22:52:00",
+            "Title": "Sweden"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " , The ECHO Game ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Shigeru Umebayashi (House of Flying Daggers Soundtrack)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Mark Lanegan, Unkle",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Looking for the Rain"
+        }
+    ],
+    "Start": "Wed, 12 Jul 2017 22:00:00",
+    "Stop": "Wed, 12 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": " , The ECHO Game ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:04:00",
+            "Title": "Shigeru Umebayashi (House of Flying Daggers Soundtrack)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Mark Lanegan, Unkle",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:04:00",
+            "Title": "Looking for the Rain"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "UNKLE",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:05:00",
+            "Title": "Hold My Hand"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shabazz Palaces",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:09:00",
+            "Title": "Dawn in Luxor "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Young Fathers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:13:00",
+            "Title": "Queen Is Dead"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Carter Tutti Void",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:23:00",
+            "Title": "V3"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kangding Ray",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:29:00",
+            "Title": "Mirrors"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Muslimgauze",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:39:00",
+            "Title": "Amber Lake"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Muslimgauze",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:42:00",
+            "Title": "Turkish Sword Swallower"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Muslimgauze",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:45:00",
+            "Title": "Ulug Bek Sextant"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "ACID ARAB & CEM YILDIZ",
+            "Duration": 30,
+            "FileId": "640940",
+            "FileUID": "60f26bde-8b52-43d4-81d1-f78561896946",
+            "Link": "http://static.prsa.pl/music/60f26bde-8b52-43d4-81d1-f78561896946.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:45:00",
+            "Title": "Stil"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Chassol",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:47:00",
+            "Title": "Music Is God My Love"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nathan Fake",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 12 Jul 2017 23:51:00",
+            "Title": " Fentiger (Clark Remix)"
+        }
+    ],
+    "Start": "Wed, 12 Jul 2017 23:00:00",
+    "Stop": "Thu, 13 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:07:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:08:00",
+            "Title": "Born Free"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:09:00",
+            "Title": "Belly of the beast (Zamilska remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Princess Nokia",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:14:00",
+            "Title": "Anomaly"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kyoka",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:16:00",
+            "Title": "HaDue"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kyoka",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:19:00",
+            "Title": "Rot Neu"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nicolai Carsten, Bender Olaf, Diamond Version",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:21:00",
+            "Title": "Get Yours"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gesaffelstein",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:22:00",
+            "Title": "Destinations"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Raffertie",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:22:00",
+            "Title": "Last Train Home"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Douglas Dare",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:26:00",
+            "Title": "New York"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Acid Arab",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:27:00",
+            "Title": "Medahat"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Acid Arab",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:28:00",
+            "Title": "Berberian Wedding"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Do",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:35:00",
+            "Title": "Slippery Slope"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "These Hidden Hands ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 22:56:00",
+            "Title": "Armed 3"
+        }
+    ],
+    "Start": "Wed, 19 Jul 2017 22:00:00",
+    "Stop": "Wed, 19 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Johann Johannsson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:01:00",
+            "Title": "Surveillance"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nine Inch Nails",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:07:00",
+            "Title": "THIS ISN'T THE PLACE"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nine Inch Nails",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:08:00",
+            "Title": "Me, I'm not"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Cat Power",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:08:00",
+            "Title": "Silent Machine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Deap Vally",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:15:00",
+            "Title": "Royal Jelly"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Savages",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:16:00",
+            "Title": "The Answer"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Samaris",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:19:00",
+            "Title": "Brennur Stjarna"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MR. SILLA",
+            "Duration": 30,
+            "FileId": "622897",
+            "FileUID": "62092580-a4a4-43af-ae7d-0fd52beaf548",
+            "Link": "http://static.prsa.pl/music/62092580-a4a4-43af-ae7d-0fd52beaf548.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:23:00",
+            "Title": "Breathe"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Lapalux",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:28:00",
+            "Title": "U Never Know"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " , Son Lux",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:29:00",
+            "Title": "Lost It To Trying"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MODERAT Ilona",
+            "Duration": 30,
+            "FileId": "582248",
+            "FileUID": "f5bbde8a-035e-4a97-acc9-03a1fd92975c",
+            "Link": "http://static.prsa.pl/music/f5bbde8a-035e-4a97-acc9-03a1fd92975c.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 19 Jul 2017 23:39:00",
+            "Title": "Ilona"
+        }
+    ],
+    "Start": "Wed, 19 Jul 2017 23:00:00",
+    "Stop": "Thu, 20 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:03:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosowska",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:07:00",
+            "Title": "Nomada"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MICHAEL KIWANUKA",
+            "Duration": 30,
+            "FileId": "628045",
+            "FileUID": "ad602b7c-4093-47bd-b419-e05ee2e3e099",
+            "Link": "http://static.prsa.pl/music/ad602b7c-4093-47bd-b419-e05ee2e3e099.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:09:00",
+            "Title": "Cold Little Heart"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Girli",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:16:00",
+            "Title": "ASBOys"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Danny Brown",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:25:00",
+            "Title": "Float On"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Warpaint",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:26:00",
+            "Title": "Disco//Very"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jones Norah, Outkast",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:32:00",
+            "Title": "Take off your cool"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paula Temple",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:36:00",
+            "Title": "Colonized"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sparklehorse",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:39:00",
+            "Title": "Eyepennies"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Pj Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:39:00",
+            "Title": "Dress"
+        }
+    ],
+    "Start": "Wed, 26 Jul 2017 22:00:00",
+    "Stop": "Wed, 26 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Aphex Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:06:00",
+            "Title": "Window Licker"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Bjork",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:07:00",
+            "Title": "Pluto"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kanye West",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:09:00",
+            "Title": "I Am a God"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rihanna",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:09:00",
+            "Title": "Desperado"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Radiohead",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:10:00",
+            "Title": "Decks Dark"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Meira Asher",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:35:00",
+            "Title": "Sida (AIDS)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Chemical Brothers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:43:00",
+            "Title": "EML Ritual"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Pj Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dress"
+        }
+    ],
+    "Start": "Wed, 26 Jul 2017 23:00:00",
+    "Stop": "Thu, 27 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Anneka",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Life Force"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Myss Keta",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Le ragazze di porta venezia - Versione ferro e fouco"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "ZIÚR",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Lips"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jlin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Calcination"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": null,
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Numb (Dinamarca Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "TARTIT Tabey Tarate",
+            "Duration": 30,
+            "FileId": "50648",
+            "FileUID": "0540272c-e0de-4093-bb95-0dcefe7df4bc",
+            "Link": "http://static.prsa.pl/music/0540272c-e0de-4093-bb95-0dcefe7df4bc.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Tabey Tarate"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tartit",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Eha Ehenia (El Remolón Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ital Tek",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Cobra"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gesaffelstein",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Obsession"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kelly Lee Owens",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Lucid"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kelly Lee Owens",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Evolution"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aphex Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Come To Daddy (Mummy Mix)"
+        }
+    ],
+    "Start": "Wed, 02 Aug 2017 22:00:00",
+    "Stop": "Wed, 02 Aug 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Aphex Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Pancake Lizard"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Johann Johansson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Beast"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nine Inch Nails",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Lovers"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Euanwhosarmy Feat. Lyndsey Lupe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "For Nothing"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "3D ft. Young Fathers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "He Says, He Needs Me "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Not Waving ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Tomorrow We Will Kill You"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Telepathe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "So Fine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fever Ray",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "When I Grow Up"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "L I M",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "C O M E T"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kangding Ray",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Serendipity March"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jon Hopkins",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Collider"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Chassol",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Music Is God My Love"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Clark",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Everlane"
+        }
+    ],
+    "Start": "Wed, 02 Aug 2017 23:00:00",
+    "Stop": "Thu, 03 Aug 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:07:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tzusing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:13:00",
+            "Title": " "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sega Bodega,Shygirl",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:17:00",
+            "Title": "CC"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shygril",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:22:00",
+            "Title": "NVR"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "THE BUG ft. MISS RED",
+            "Duration": 30,
+            "FileId": "628470",
+            "FileUID": "cd4e3e2f-73bb-404a-8185-bd1899786833",
+            "Link": "http://static.prsa.pl/music/cd4e3e2f-73bb-404a-8185-bd1899786833.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:23:00",
+            "Title": "Mi Lost"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Boys Noize, Pilo ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:27:00",
+            "Title": "Cerebral"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Alsarah & The Nubatones",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:31:00",
+            "Title": "Fugu (Chancha Via Circuito Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Alsarah & The Nubatones",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:32:00",
+            "Title": "Wad Alnuba (Captain Planet Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "KOKOKO!",
+            "Duration": 30,
+            "FileId": "657112",
+            "FileUID": "9df729bb-2e0c-4df0-881b-2805276d0c32",
+            "Link": "http://static.prsa.pl/music/9df729bb-2e0c-4df0-881b-2805276d0c32.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:34:00",
+            "Title": "L.O.V.E."
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emmanuel Jal",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:34:00",
+            "Title": "Kuar (Henrik Schwarz remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gustavo Santaolalla",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:39:00",
+            "Title": "Tribal"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Perera Elsewhere",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 22:50:00",
+            "Title": "Ebora (Paula Temple Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tzusing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Digital Properties"
+        }
+    ],
+    "Start": "Wed, 09 Aug 2017 22:00:00",
+    "Stop": "Wed, 09 Aug 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:05:00",
+            "Title": "Descent"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Forest Swords",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:05:00",
+            "Title": "The Highest Flood"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "FKA twigs",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:07:00",
+            "Title": "Glass & Patron"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "These Hidden Hands",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:09:00",
+            "Title": "Variant (feat. Lucrecia Dalt)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "These Hidden Hands",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:10:00",
+            "Title": "These Moments Dismantled (ft. Lucrecia Dalt)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Peder Mannerfelt",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:13:00",
+            "Title": "Lines Describing A Circle"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Andy Stott",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:14:00",
+            "Title": "Leaving"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Lorn",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:17:00",
+            "Title": "SV_CHEATS 0"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Księżyc",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:17:00",
+            "Title": "mm"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " , Baths",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:21:00",
+            "Title": "Lammicken (Braids Cover)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Moderat",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 09 Aug 2017 23:52:00",
+            "Title": "Nr. 22"
+        }
+    ],
+    "Start": "Wed, 09 Aug 2017 23:00:00",
+    "Stop": "Thu, 10 Aug 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Coucou Chloé",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:10:00",
+            "Title": "Halo"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coucou Chloé",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:11:00",
+            "Title": "Skin Like Sin"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.O.O.N. ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:14:00",
+            "Title": "Paris"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Brodinski",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:14:00",
+            "Title": "Bury Me"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Knife",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:15:00",
+            "Title": "We share our mother's health"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gaika",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:18:00",
+            "Title": "In Between"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dead Can Dance",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:20:00",
+            "Title": "Saldek"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Antimatter",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:20:00",
+            "Title": "Black Sun"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tzusing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:23:00",
+            "Title": "Esther"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Soft Moon",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:40:00",
+            "Title": "Want"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Born In Flamez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 22:44:00",
+            "Title": "The Coming Insurrection (Paula Temple remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ebony Bones",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "I see I say"
+        }
+    ],
+    "Start": "Wed, 16 Aug 2017 22:00:00",
+    "Stop": "Wed, 16 Aug 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Kaitlyn Aurelia Smith, Suzanne Ciani",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:08:00",
+            "Title": "An Intention"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "OTHER LIVES",
+            "Duration": 30,
+            "FileId": "73455",
+            "FileUID": "3e524ac8-e221-4bfc-98f1-1477427119ef",
+            "Link": "http://static.prsa.pl/music/3e524ac8-e221-4bfc-98f1-1477427119ef.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:15:00",
+            "Title": "Tamer Animals (Atoms For Peace Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Arca",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:18:00",
+            "Title": "Thievery"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Death Grips",
+            "Duration": 30,
+            "FileId": "585883",
+            "FileUID": "fc285a9e-23bc-43ac-9901-edda0e99c806",
+            "Link": "http://static.prsa.pl/music/fc285a9e-23bc-43ac-9901-edda0e99c806.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:19:00",
+            "Title": "Guillotine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Niziński Robert, Jerz Igor Orkiestra",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:21:00",
+            "Title": "Gniewna"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Vessel",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:26:00",
+            "Title": "Anima"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Four Tet",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 16 Aug 2017 23:28:00",
+            "Title": "Evening Side"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Portishead",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Machine Gun"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sevdaliza",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "SCARLETTE"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Andy Stott",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Execution"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Plaster",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Quasar"
+        }
+    ],
+    "Start": "Wed, 16 Aug 2017 23:00:00",
+    "Stop": "Thu, 17 Aug 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:09:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Madame Gandhi",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:16:00",
+            "Title": "The Future is Female "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ninos Du Brasil",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:17:00",
+            "Title": "Sombra Da Lua"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Samba de Coco Raízes de Arcoverde ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:27:00",
+            "Title": "E Boi (Maga Bo Remix) "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Maga Bo ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:30:00",
+            "Title": "No Balanço da Canoa feat. Rosângela Macedo and Marcelo Yuka"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Maga Bo ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:34:00",
+            "Title": "Homeboys (Feat. Max Normal)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Filastine",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:35:00",
+            "Title": "Judas Goat "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Filastine",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:37:00",
+            "Title": "Informal Sector Parade "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Chassol",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:39:00",
+            "Title": "Générique "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Chassol",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:40:00",
+            "Title": "Drumachine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Madan Bala Sindhu",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:41:00",
+            "Title": "Mehndi"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Budapest Film Orchestra",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:46:00",
+            "Title": "Aj Mera jee Karda (Zimpala remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Glasser",
+            "Duration": 30,
+            "FileId": "58148",
+            "FileUID": "556539f8-adfc-42d4-b81f-74b8e63582e4",
+            "Link": "http://static.prsa.pl/music/556539f8-adfc-42d4-b81f-74b8e63582e4.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:46:00",
+            "Title": "Apply"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kuedo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 22:48:00",
+            "Title": "Glow (Clark Remix)"
+        }
+    ],
+    "Start": "Wed, 23 Aug 2017 22:00:00",
+    "Stop": "Wed, 23 Aug 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "The Haxan Cloak",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:01:00",
+            "Title": "Consumed"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Son Lux",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:03:00",
+            "Title": "Part of this"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "LULU ROUGE",
+            "Duration": 30,
+            "FileId": "585735",
+            "FileUID": "46d6b846-7270-45c3-9fbe-4f2dd560a07f",
+            "Link": "http://static.prsa.pl/music/46d6b846-7270-45c3-9fbe-4f2dd560a07f.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:04:00",
+            "Title": "Welcome to My Dream (feat. Tuco)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Acid",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:04:00",
+            "Title": "Creeper"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Not Waving ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:05:00",
+            "Title": "Head Body"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gustavo Santaolalla",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:08:00",
+            "Title": "The Blinding Sun "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ryan Vail",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:10:00",
+            "Title": "Never"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ryan Vail and Jealous of The Birds ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:12:00",
+            "Title": "Love Is A Crow"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Abul Mogard",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:16:00",
+            "Title": "Tumbling Relentless Heaps"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:17:00",
+            "Title": "Anti Body"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Vessel",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:22:00",
+            "Title": "Euoi"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nils Frahm",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 23 Aug 2017 23:34:00",
+            "Title": "Peter (Clark Remix) "
+        }
+    ],
+    "Start": "Wed, 23 Aug 2017 23:00:00",
+    "Stop": "Thu, 24 Aug 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:02:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Chemical Brothers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:03:00",
+            "Title": "Hey Boy Hey Girl"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Boys Noize",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:05:00",
+            "Title": "Overthrow (Boys Noize 303 Overdub)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Birdy Nam Nam",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:23:00",
+            "Title": "Hammer Head (ft. Mai Lan)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Arure",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:25:00",
+            "Title": "The Way of the Warrior"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gypsy Caravan ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:35:00",
+            "Title": "Algerian Drum Song"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Solace ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:38:00",
+            "Title": "Bounce"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Solace ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:39:00",
+            "Title": "Blood Oil Gold"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rikslyd",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:40:00",
+            "Title": "Oriented"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Society Of Silence ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:46:00",
+            "Title": "Baghdad"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Acid Arab Ft. Fred Avril & Shadi Khries ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:48:00",
+            "Title": " Samira"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fatima",
+            "Duration": 30,
+            "FileId": "596314",
+            "FileUID": "c0fca2f7-7aa6-4f40-8fb0-97d654997794",
+            "Link": "http://static.prsa.pl/music/c0fca2f7-7aa6-4f40-8fb0-97d654997794.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 22:50:00",
+            "Title": "Ridin' Round (Sky High)"
+        }
+    ],
+    "Start": "Wed, 30 Aug 2017 22:00:00",
+    "Stop": "Wed, 30 Aug 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Clark",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:02:00",
+            "Title": "Ship Is Flooding"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Daughter",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:02:00",
+            "Title": "Burn It Down"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Demdike Stare",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:08:00",
+            "Title": "Savage Distort"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ben Frost",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:11:00",
+            "Title": "Rare Decay"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:14:00",
+            "Title": "Unflesh (Carter Tutti Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nisennenmondai",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:15:00",
+            "Title": "#6"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " Landside ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:21:00",
+            "Title": "Chains"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nina Kraviz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:43:00",
+            "Title": "Ghetto Kraviz"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "FINK",
+            "Duration": 30,
+            "FileId": "581",
+            "FileUID": "9367319b-d95e-46c9-9af8-3d4a05395270",
+            "Link": "http://static.prsa.pl/music/9367319b-d95e-46c9-9af8-3d4a05395270.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:45:00",
+            "Title": "Pilgrim"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kelpe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:51:00",
+            "Title": "Doubles of Everything"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "School Of Seven Bells, Prefuse 73",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 30 Aug 2017 23:53:00",
+            "Title": "The Classical Sounds Of 73 Bells"
+        }
+    ],
+    "Start": "Wed, 30 Aug 2017 23:00:00",
+    "Stop": "Thu, 31 Aug 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:03:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nirvana",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:06:00",
+            "Title": "School"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beastie Boys",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:07:00",
+            "Title": "Sabotage"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rage Against The Machine",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:07:00",
+            "Title": "Calm Like A Bomb"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Korn",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:14:00",
+            "Title": "Twist"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Korn",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:18:00",
+            "Title": "Porno Creep"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "System Of A Down",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:18:00",
+            "Title": "Shimmy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Juno Reactor",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:21:00",
+            "Title": "Teahouse"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Linkin Park",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:22:00",
+            "Title": "Session"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Deftones",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:22:00",
+            "Title": "My Own Summer"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "THE PRODIGY, JULIETTE LEWIS",
+            "Duration": 30,
+            "FileId": "71314",
+            "FileUID": "221d96dd-9675-4e98-ad98-a2bf1c30eedf",
+            "Link": "http://static.prsa.pl/music/221d96dd-9675-4e98-ad98-a2bf1c30eedf.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:22:00",
+            "Title": "Spitfire"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Marilyn Manson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:27:00",
+            "Title": "King Kill 33"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dead Can Dance",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:29:00",
+            "Title": "Nierika"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Natacha Atlas",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:31:00",
+            "Title": "Moustahil"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 30,
+            "FileId": "21047",
+            "FileUID": "39d426a0-6513-4ee7-871e-78850e050478",
+            "Link": "http://static.prsa.pl/music/39d426a0-6513-4ee7-871e-78850e050478.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:32:00",
+            "Title": "When Under Ether"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:33:00",
+            "Title": "Kamikaze"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Simple Acoustic Trio",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 22:35:00",
+            "Title": "Hyperballad"
+        }
+    ],
+    "Start": "Wed, 06 Sep 2017 22:00:00",
+    "Stop": "Wed, 06 Sep 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Lorn",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:02:00",
+            "Title": "Ghosst"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Night Marks",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:02:00",
+            "Title": "Experience"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Alix Perez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:10:00",
+            "Title": "Chiron"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shlohmo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:13:00",
+            "Title": "Sippy Cup"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosaj Thing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:13:00",
+            "Title": "All Points Back To U"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beacon",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:15:00",
+            "Title": " IMU"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Burial",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:18:00",
+            "Title": "Forgive"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Caribou",
+            "Duration": 30,
+            "FileId": "14893",
+            "FileUID": "b1f86771-4850-4a12-91ce-e28a066cfdbd",
+            "Link": "http://static.prsa.pl/music/b1f86771-4850-4a12-91ce-e28a066cfdbd.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 06 Sep 2017 23:18:00",
+            "Title": "Melody Day"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "UNKLE",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Back And Forth"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SOS Gunver Ryberg, Ai¨sha Devi, Rrose, Paula Temple ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "DR2-3"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ash Koosha ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "GUUD"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Loops Haunt",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Rubber Sun Grenade"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Loops Haunt",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": " Galleon"
+        }
+    ],
+    "Start": "Wed, 06 Sep 2017 23:00:00",
+    "Stop": "Thu, 07 Sep 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:23:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "K.Flay                        ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:24:00",
+            "Title": "Blood In The Cut"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "REZZ ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:26:00",
+            "Title": "Edge"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Doldrums",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:26:00",
+            "Title": "HOTFOOT"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "KAROL CONKA",
+            "Duration": 30,
+            "FileId": "69978",
+            "FileUID": "8d7caa44-545d-4ce3-be20-9226304c27eb",
+            "Link": "http://static.prsa.pl/music/8d7caa44-545d-4ce3-be20-9226304c27eb.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:27:00",
+            "Title": "Boa Noite"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "TSHEGUE",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:31:00",
+            "Title": "Muanapoto"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coldcut & On-U Sound",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:32:00",
+            "Title": "Vitals feat. Roots Manuva"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coldcut & On-U Sound",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:34:00",
+            "Title": "Kajra Mohabbat Wala feat. Hamsika Iyer"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Moti Lal Handa",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:38:00",
+            "Title": "Powerful Shiv Raksha Kavach"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shankar Mahadevan & Mahalaxmi",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:42:00",
+            "Title": "Shiva Shiva Shankara"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shiva Tandava",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:45:00",
+            "Title": "Instrumental music"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Uma Mohan",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:46:00",
+            "Title": "Shiva Tandava Stotram"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shiv Tandav Stotram",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 22:50:00",
+            "Title": "Music Dunya"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "TANDAV ON TRACK",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Shiva Devoted Aghori Swag"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Raquy and the Cavemen ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Very Short Belly Dance Drum Solo"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amadou Binta Konté and Tidiane Thiam",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Diale´lam"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fatima",
+            "Duration": 30,
+            "FileId": "596314",
+            "FileUID": "c0fca2f7-7aa6-4f40-8fb0-97d654997794",
+            "Link": "http://static.prsa.pl/music/c0fca2f7-7aa6-4f40-8fb0-97d654997794.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Ridin' Round (Sky High)"
+        }
+    ],
+    "Start": "Wed, 13 Sep 2017 22:00:00",
+    "Stop": "Wed, 13 Sep 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Unkle, Elliott Power, Mink, and YSÉE",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:16:00",
+            "Title": "Outro (Mandatory)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ben Frost",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:19:00",
+            "Title": "Ionia"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Askerbi Unaroko ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:27:00",
+            "Title": " Khagaudzh's Zafaq"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coldcut x On-U Sound",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:29:00",
+            "Title": "Aztec Riddim"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SOS Gunver Ryberg, Ai¨sha Devi, Rrose, Paula Temple ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:31:00",
+            "Title": "DR2-1"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Cassius Select",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:32:00",
+            "Title": "Herd"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Funkstörung",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:33:00",
+            "Title": "Laid Out ft. Anothr"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Lapalux",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:34:00",
+            "Title": "Running to Evaporate"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Yemen Blues",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:34:00",
+            "Title": "Wamid"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Soap & Skin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:35:00",
+            "Title": "Mawal Jamar"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Populous, Miranda Nina",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:37:00",
+            "Title": "Umi"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Populous, Miranda Nina",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:38:00",
+            "Title": "Azul Oro"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Vok",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:38:00",
+            "Title": "Breaking Bones"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Banks",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 13 Sep 2017 23:39:00",
+            "Title": "Lovesick "
+        }
+    ],
+    "Start": "Wed, 13 Sep 2017 23:00:00",
+    "Stop": "Thu, 14 Sep 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Johann Johannsson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:05:00",
+            "Title": "Heptapod B"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rasina (Karolina Rec), Resina",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:05:00",
+            "Title": "Dark Sky White Water"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Boys Noize feat. Hudson Mohawke & Spank Rock ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:08:00",
+            "Title": "Baby"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Colin Stetson & Sarah Neufeld",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:11:00",
+            "Title": "They All Came Down "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Colin Stetson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:14:00",
+            "Title": "In The Clinches"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MHYSA ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:16:00",
+            "Title": "STROBE"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ofo The Black Company",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:18:00",
+            "Title": "Allah Wäkbarr"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Buku",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:21:00",
+            "Title": "Front to Back "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amnesia Scanner ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:23:00",
+            "Title": "AS Chingy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "clipping.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:25:00",
+            "Title": "Body & Blood"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "ALESSANDRO CORTINI",
+            "Duration": 30,
+            "FileId": "628306",
+            "FileUID": "46f72cbd-5597-4afd-bfec-e7319df6d4a9",
+            "Link": "http://static.prsa.pl/music/46f72cbd-5597-4afd-bfec-e7319df6d4a9.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 22:33:00",
+            "Title": "La Sveglia"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        }
+    ],
+    "Start": "Wed, 20 Sep 2017 22:00:00",
+    "Stop": "Wed, 20 Sep 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Ghetto Kumbé ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 23:09:00",
+            "Title": " Eso no me falla"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ian William Craig",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 23:10:00",
+            "Title": " Before Meaning Comes "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Don Leisure",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 23:12:00",
+            "Title": "Proper Weirdo"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ben Frost",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 23:12:00",
+            "Title": "Tainted Love"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "CID RIM & Petite Noir ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 20 Sep 2017 23:21:00",
+            "Title": "Swnerve"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "RESINA",
+            "Duration": 30,
+            "FileId": "636009",
+            "FileUID": "35c3ea42-5950-409e-b82a-2da8e34ee315",
+            "Link": "http://static.prsa.pl/music/35c3ea42-5950-409e-b82a-2da8e34ee315.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Not Here"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SUUNS And JERUSALEM IN MY HEART",
+            "Duration": 30,
+            "FileId": "596755",
+            "FileUID": "c085ecf1-6642-44bc-baf9-a16971b73c6a",
+            "Link": "http://static.prsa.pl/music/c085ecf1-6642-44bc-baf9-a16971b73c6a.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Self"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fancy Rosy ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Punk Police"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Seifu Mikael, Mikael Seifu z zespołem",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "How to Save a Life / Vector of Eternity"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beyonce",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Partition "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Stian Westerhus",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "How Long"
+        }
+    ],
+    "Start": "Wed, 20 Sep 2017 23:00:00",
+    "Stop": "Thu, 21 Sep 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:02:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Charles Bradley",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:04:00",
+            "Title": "Where Do We Go From Here"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aristophanes Ft. Grimes",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:07:00",
+            "Title": "HUMANS BECOME MACHINES"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coucou Chloe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:12:00",
+            "Title": "FLIP U (PROD. BY SEGA BODEGA)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Verge",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:16:00",
+            "Title": "Suspension"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Depeche Mode",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:19:00",
+            "Title": "Personal Jesus (Boys Noize Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "BIRTHRIGHTS",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:26:00",
+            "Title": "REBIRTH"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosaj Thing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:27:00",
+            "Title": "Us (Jon Hopkins remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "GotSome",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:29:00",
+            "Title": "Zulu"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kate Fagan",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:33:00",
+            "Title": "I don't Wanna Be Too Cool"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shannon Lay",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:37:00",
+            "Title": "Dog Fiddle"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SOKO",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:39:00",
+            "Title": "We Might Be Dead by Tomorrow"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Curtis Mayfield",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 22:41:00",
+            "Title": "Here But Im Gone"
+        }
+    ],
+    "Start": "Wed, 27 Sep 2017 22:00:00",
+    "Stop": "Wed, 27 Sep 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Gil Scott-Heron",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:03:00",
+            "Title": "The Revolution Will Not Be Televised"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Kills",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:03:00",
+            "Title": "Desperado "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Goat Girl",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:04:00",
+            "Title": "Country Sleaze"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:05:00",
+            "Title": "Axis"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "DJ SHADOW",
+            "Duration": 30,
+            "FileId": "108911",
+            "FileUID": "aa1ad598-ba8b-4b34-9c34-e5157246bd70",
+            "Link": "http://static.prsa.pl/music/aa1ad598-ba8b-4b34-9c34-e5157246bd70.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:06:00",
+            "Title": "Midnight In A Perfect World"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "J Dilla",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:08:00",
+            "Title": "Workinonit"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Don Leisure",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:08:00",
+            "Title": "Proper Weirdo"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Monoloc",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:08:00",
+            "Title": "When I Get Older"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Danny Brown",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:17:00",
+            "Title": "Side B Dope Song"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Boddhi Satva",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:21:00",
+            "Title": "Ngnari Konon Feat. Oumou Sangaré"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shannon Lay",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:22:00",
+            "Title": "Orange Tree"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hector Plimmer",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:25:00",
+            "Title": "Eastern System (ft Drahla)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "NAWKSH",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 27 Sep 2017 23:29:00",
+            "Title": "Quantity"
+        }
+    ],
+    "Start": "Wed, 27 Sep 2017 23:00:00",
+    "Stop": "Thu, 28 Sep 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Laurence Guy",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Claudi"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "James Holden & The Animal Spirits",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Each Moment Like The First"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SHABAZZ PALACES ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Motion Sickness "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shye Ben Tzur & Jonny Greenwood & The Rajasthan Express",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Roked"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ous Mal",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Kaupunkeja"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Peder Mannerfelt",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Lines Describing A Circle"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Solace ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Blessings Adani"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jain ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Makeba"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Silent Strike feat. EM",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "It's Not Safe To Turn Off Your Computer (feat. EM)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Moses Sumney",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Lonely World"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Haxan Cloak",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dieu"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Vilde",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Fully Fledged"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Unkle",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Intro - Shin"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kangding Ray",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Mirrors"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Petit Singe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Hue and Cry"
+        }
+    ],
+    "Start": "Wed, 04 Oct 2017 22:00:00",
+    "Stop": "Wed, 04 Oct 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Unkle, Elliott Power, Mink, and YSÉE",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Outro (Mandatory)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Haxan Cloak",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Consumed"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "These Hidden Hands",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "These Moments Dismantled (ft. Lucrecia Dalt)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " Poorgrrrl",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "- the bluezZz rn"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kim Gordon, Peaches",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Close Up"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "NINOS DU BRASIL",
+            "Duration": 30,
+            "FileId": "586192",
+            "FileUID": "7cd26c71-f17a-410c-8476-db95364d9c76",
+            "Link": "http://static.prsa.pl/music/7cd26c71-f17a-410c-8476-db95364d9c76.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Aromobates NDB"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Algiers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Blood"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "King Krule",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Neptune Estate"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Petit Singe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Akash Ganga (Aisha Devi Necromedia Mix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Autumn's Grey Solace",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Cybele (The Neo Tribal Mix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Suuns And Jerusalem In My Heart",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Metal"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Cat Power",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Silent Machine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Max Richter",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Infra1"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nathan Fake",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": " Fentiger (Clark Remix)"
+        }
+    ],
+    "Start": "Wed, 04 Oct 2017 23:00:00",
+    "Stop": "Thu, 05 Oct 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Sevdaliza",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:01:00",
+            "Title": "Mad Woman"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Howie Lee",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:08:00",
+            "Title": "Bankers"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Howie Lee",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:12:00",
+            "Title": "Muztagata"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Saltland ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:15:00",
+            "Title": "I Only Wish This For You"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Liars",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:16:00",
+            "Title": "Mess on a Mission"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Marylin Manson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:18:00",
+            "Title": "SAY10"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "FKA Twigs",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:19:00",
+            "Title": "Figure 8"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " Morteza Hannaneh ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:21:00",
+            "Title": "A3 "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Midnight Davis",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:25:00",
+            "Title": "Severance"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dead Light",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:27:00",
+            "Title": "Falling In"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Maga Bo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:28:00",
+            "Title": "E Da Nossa Cor ft Mestre Camaleao"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Maud Geffray ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 22:30:00",
+            "Title": "In Your Eyes (feat. Flavien Berger)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        }
+    ],
+    "Start": "Wed, 11 Oct 2017 22:00:00",
+    "Stop": "Wed, 11 Oct 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "El Mahdy Jr.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 23:04:00",
+            "Title": "Phantomatik"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 23:05:00",
+            "Title": "Quiet one"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paulina Przybysz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 23:09:00",
+            "Title": "Papadamy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Chemical Brothers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 11 Oct 2017 23:09:00",
+            "Title": "Where Do I Begin"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Sight"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "James Holden & The Animal Spirits",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Each Moment Like The First"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "James Holden ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Renata"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hama",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Ataraghine"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Le Mystere des Voix Bulgares",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "KAVAL SVIRI"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SOS Gunver Ryberg, Ai¨sha Devi, Rrose, Paula Temple ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Gegen "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Massive Attack",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Everything about you is new"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Black Keys",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Lonely Boy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey,Bjork ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Satisfaction"
+        }
+    ],
+    "Start": "Wed, 11 Oct 2017 23:00:00",
+    "Stop": "Thu, 12 Oct 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:07:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paulina Przybysz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:08:00",
+            "Title": "Saliva"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Erykah Badu",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:09:00",
+            "Title": "I Want You"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Clap! Clap!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:11:00",
+            "Title": "Burbuka"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kendrick Lamar",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:16:00",
+            "Title": "For Free"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Toy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hiatus Kaiyote ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Laputa"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Elliphant",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Revolusion"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beyonce,Frank Ocean",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:20:00",
+            "Title": "Superpower"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Schwefelgelb",
+            "Duration": 30,
+            "FileId": "663054",
+            "FileUID": "eb533940-5873-4b57-85c0-5ae7ed213ff2",
+            "Link": "http://static.prsa.pl/music/eb533940-5873-4b57-85c0-5ae7ed213ff2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:20:00",
+            "Title": "Aus dem Hals der Flasche"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Night Marks",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:21:00",
+            "Title": "Cat"
+        }
+    ],
+    "Start": "Wed, 18 Oct 2017 22:00:00",
+    "Stop": "Wed, 18 Oct 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "D'Angelo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:05:00",
+            "Title": "Africa"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Buku",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:05:00",
+            "Title": "Front to Back "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Moses Sumney",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:07:00",
+            "Title": "Lonely World"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hülya Süer ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:11:00",
+            "Title": "Şeker Oglan (Kozmonot Rework)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jonwayne, Zeroh",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:16:00",
+            "Title": "Ted Talk"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Keto",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:20:00",
+            "Title": "Blackened Pool"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Elliott Missy, Missy Elliott,Jay Z ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:22:00",
+            "Title": "Wake up"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "GENESIS",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:26:00",
+            "Title": "Lovesick "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paulina Przybysz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Papadamy"
+        }
+    ],
+    "Start": "Wed, 18 Oct 2017 23:00:00",
+    "Stop": "Thu, 19 Oct 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Clap! Clap!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:06:00",
+            "Title": "A Dream Wasn’t It feat. DJ Khalab"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Young Fathers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:10:00",
+            "Title": "Old Rock N Roll"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Telemachus ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:21:00",
+            "Title": "Locust"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Grouper",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:22:00",
+            "Title": " I'm Clean Now"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Quantic ft. Nidia Gongora ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:28:00",
+            "Title": "Muévelo Negro "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Mark Pritchard",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:32:00",
+            "Title": "Sad Alron"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "U.V. ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:40:00",
+            "Title": "Cuts"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Cut Hands",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:43:00",
+            "Title": "Eat them like bread"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fatou Seidi Ghali and Alamnou Akrouni Fatou Seidi Ghali and Alamnou Akrouni ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:50:00",
+            "Title": "Eliss Wan Anas Douban"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Demdike Stare",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:54:00",
+            "Title": "Past Majesty"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ryan Vail",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 22:57:00",
+            "Title": "Shadows"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Fever Ray",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "To The Moon And Back"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dance While You Shoot"
+        }
+    ],
+    "Start": "Wed, 25 Oct 2017 22:00:00",
+    "Stop": "Wed, 25 Oct 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Petit Singe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:04:00",
+            "Title": "Hue and Cry"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aisha Devi",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:08:00",
+            "Title": "Jesus & The Math"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Azekel",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:09:00",
+            "Title": "New Romance (Om Unit remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Invisible Church & Marie Davidson",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:16:00",
+            "Title": "Never Release the Tension"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amy & The Angels ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:18:00",
+            "Title": "I Hate Being In Love"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "FADIMOUTOU WALLET INAMOUD",
+            "Duration": 30,
+            "FileId": "582029",
+            "FileUID": "ae59f1c4-15f2-4e25-8b03-0e4d78aeda2b",
+            "Link": "http://static.prsa.pl/music/ae59f1c4-15f2-4e25-8b03-0e4d78aeda2b.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:19:00",
+            "Title": "Wana Le Nouveau"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Killawatt",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:20:00",
+            "Title": "Meiotic Drive"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": " CHEATERS ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:26:00",
+            "Title": "SUNDIAL"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Immaculate Rivombo ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:30:00",
+            "Title": "Mbira Girls"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Max Richter",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:30:00",
+            "Title": "Infra1"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Trentemoller",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 25 Oct 2017 23:31:00",
+            "Title": "Moan"
+        }
+    ],
+    "Start": "Wed, 25 Oct 2017 23:00:00",
+    "Stop": "Thu, 26 Oct 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "The Beatles",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:01:00",
+            "Title": "Dear Prudence"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Coucou Chloe",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:01:00",
+            "Title": "FLIP U (PROD. BY SEGA BODEGA)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Body Sculptures",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:04:00",
+            "Title": "The Base Of All Beauty Is The Body"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Telemachus ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:10:00",
+            "Title": "Mirleft"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beastie Boys ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:14:00",
+            "Title": "Stand Together"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gesaffelstein",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:15:00",
+            "Title": "Destinations"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Stooges",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:15:00",
+            "Title": "TV Eye"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rihanna",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:15:00",
+            "Title": "We Found Love"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sonic Youth",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 01 Nov 2017 22:17:00",
+            "Title": "Nevermind (What Was it Anyway)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "The Message"
+        }
+    ],
+    "Start": "Wed, 01 Nov 2017 22:00:00",
+    "Stop": "Wed, 01 Nov 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Sonic Youth",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Protect Me You"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Myss Keta",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "BURQA DI GUCCI"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dead Can Dance",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "American Dreaming"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Slayer",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Threshold"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey (Harvey Polly Jean)",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Driving"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kokoko!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Tongosa"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Powell",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Acid"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ty Segall",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Meaning"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Yellow Claw, Diplo, LNY TNZ ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Techno ft. Waka Flocka Flame"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "THE CHEMICAL BROTHERS",
+            "Duration": 30,
+            "FileId": "593685",
+            "FileUID": "d207141c-5029-4955-a5a1-17fefab77cb1",
+            "Link": "http://static.prsa.pl/music/d207141c-5029-4955-a5a1-17fefab77cb1.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "EML Ritual"
+        }
+    ],
+    "Start": "Wed, 01 Nov 2017 23:00:00",
+    "Stop": "Thu, 02 Nov 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:06:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "COMA",
+            "Duration": 30,
+            "FileId": "661809",
+            "FileUID": "fe510e87-977d-4999-955e-ed550c08762c",
+            "Link": "http://static.prsa.pl/music/fe510e87-977d-4999-955e-ed550c08762c.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:07:00",
+            "Title": "Lajki"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Mitchell Lisa",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:11:00",
+            "Title": "The Boys"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Two Fingers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:12:00",
+            "Title": "Sweden"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ripsy May",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:13:00",
+            "Title": "Dare"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Raffertie",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:14:00",
+            "Title": "Last Train Home"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Slowdive",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "No Longer Making Time"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amnesia Scanner ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "AS Chingy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "648497",
+            "FileUID": "a40a2a80-c99c-4724-9073-c455e8792259",
+            "Link": "http://static.prsa.pl/music/a40a2a80-c99c-4724-9073-c455e8792259.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "Pity"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dadras",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:23:00",
+            "Title": "Hollywood"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:23:00",
+            "Title": "The Glorious Land"
+        }
+    ],
+    "Start": "Wed, 08 Nov 2017 22:00:00",
+    "Stop": "Wed, 08 Nov 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "COMA",
+            "Duration": 30,
+            "FileId": "634859",
+            "FileUID": "f7d626ab-4db5-4ebc-9df3-9f295b82d77d",
+            "Link": "http://static.prsa.pl/music/f7d626ab-4db5-4ebc-9df3-9f295b82d77d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Taksówki"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Crystal Castles",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Empathy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nicolai Carsten, Bender Olaf, Diamond Version",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Get Yours"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Julietta ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Beach Break"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosaj Thing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "All Points Back To U"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Austra",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "I Love You More Than You Love Yourself"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dissolve"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Dead Weather",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "I Feel Love (Every Million Miles)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nine Inch Nails",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Me, I'm not"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sinead O`Connor",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Jackie"
+        }
+    ],
+    "Start": "Wed, 08 Nov 2017 23:00:00",
+    "Stop": "Thu, 09 Nov 2017 00:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "GonjaSufi",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:20:00",
+            "Title": "She Gone"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Poliça",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:21:00",
+            "Title": "Lay Your Cards Out"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kanye West",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:22:00",
+            "Title": "I Am a God"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dinamarca & Rihanna ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:28:00",
+            "Title": "Numb (Dinamarca Remix)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "BBC",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:29:00",
+            "Title": "Ngunyuta Dance"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Cross Record",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:30:00",
+            "Title": "High Rise"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Die Antwoord",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:33:00",
+            "Title": "Rich Bitch"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:35:00",
+            "Title": "Belly Of The Beast"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "King Krule",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:36:00",
+            "Title": "Easy Easy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aisha Devi",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 22:36:00",
+            "Title": "1%"
+        }
+    ],
+    "Start": "Wed, 15 Nov 2017 22:00:00",
+    "Stop": "Wed, 15 Nov 2017 23:00:00",
+    "Title": "Nocny TransPort"
+},{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Gil Scott Heron",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:00:00",
+            "Title": "Me and the Devil"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Karol Conka",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:11:00",
+            "Title": " Boa Noite"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Stromae Cheese",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:11:00",
+            "Title": "Alors On Danse"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Shygirl",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:12:00",
+            "Title": "NVR"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:13:00",
+            "Title": "Heartbreaker"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Girli",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:15:00",
+            "Title": "ASBOys"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Empire of The Sun",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 15 Nov 2017 23:19:00",
+            "Title": "We Are the People"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Peszek Maria",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Sorry Polsko (feat ZAMILSKA)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "White Chalk"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paula Temple",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Colonized"
+        }
+    ],
+    "Start": "Wed, 15 Nov 2017 23:00:00",
+    "Stop": "Thu, 16 Nov 2017 00:00:00",
+    "Title": "Nocny TransPort"
+}]

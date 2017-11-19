@@ -1,0 +1,235 @@
+{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:07:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paulina Przybysz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:08:00",
+            "Title": "Saliva"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Erykah Badu",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:09:00",
+            "Title": "I Want You"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Clap! Clap!",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:11:00",
+            "Title": "Burbuka"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kendrick Lamar",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:16:00",
+            "Title": "For Free"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Toy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hiatus Kaiyote ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Laputa"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Elliphant",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:17:00",
+            "Title": "Revolusion"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Beyonce,Frank Ocean",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:20:00",
+            "Title": "Superpower"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Schwefelgelb",
+            "Duration": 30,
+            "FileId": "663054",
+            "FileUID": "eb533940-5873-4b57-85c0-5ae7ed213ff2",
+            "Link": "http://static.prsa.pl/music/eb533940-5873-4b57-85c0-5ae7ed213ff2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:20:00",
+            "Title": "Aus dem Hals der Flasche"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Night Marks",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 22:21:00",
+            "Title": "Cat"
+        }
+    ],
+    "Start": "Wed, 18 Oct 2017 22:00:00",
+    "Stop": "Wed, 18 Oct 2017 23:00:00",
+    "Title": "Nocny TransPort"
+}{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "D'Angelo",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:05:00",
+            "Title": "Africa"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Buku",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:05:00",
+            "Title": "Front to Back "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Moses Sumney",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:07:00",
+            "Title": "Lonely World"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Hülya Süer ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:11:00",
+            "Title": "Şeker Oglan (Kozmonot Rework)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jonwayne, Zeroh",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:16:00",
+            "Title": "Ted Talk"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Keto",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:20:00",
+            "Title": "Blackened Pool"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Elliott Missy, Missy Elliott,Jay Z ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:22:00",
+            "Title": "Wake up"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "GENESIS",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 18 Oct 2017 23:26:00",
+            "Title": "Lovesick "
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paulina Przybysz",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Papadamy"
+        }
+    ],
+    "Start": "Wed, 18 Oct 2017 23:00:00",
+    "Stop": "Thu, 19 Oct 2017 00:00:00",
+    "Title": "Nocny TransPort"
+}

@@ -1,0 +1,246 @@
+{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:06:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "COMA",
+            "Duration": 30,
+            "FileId": "661809",
+            "FileUID": "fe510e87-977d-4999-955e-ed550c08762c",
+            "Link": "http://static.prsa.pl/music/fe510e87-977d-4999-955e-ed550c08762c.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:07:00",
+            "Title": "Lajki"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Mitchell Lisa",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:11:00",
+            "Title": "The Boys"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Two Fingers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:12:00",
+            "Title": "Sweden"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Ripsy May",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:13:00",
+            "Title": "Dare"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Raffertie",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:14:00",
+            "Title": "Last Train Home"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Slowdive",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "No Longer Making Time"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amnesia Scanner ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "AS Chingy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "648497",
+            "FileUID": "a40a2a80-c99c-4724-9073-c455e8792259",
+            "Link": "http://static.prsa.pl/music/a40a2a80-c99c-4724-9073-c455e8792259.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:19:00",
+            "Title": "Pity"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Dadras",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:23:00",
+            "Title": "Hollywood"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 08 Nov 2017 22:23:00",
+            "Title": "The Glorious Land"
+        }
+    ],
+    "Start": "Wed, 08 Nov 2017 22:00:00",
+    "Stop": "Wed, 08 Nov 2017 23:00:00",
+    "Title": "Nocny TransPort"
+}{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "COMA",
+            "Duration": 30,
+            "FileId": "634859",
+            "FileUID": "f7d626ab-4db5-4ebc-9df3-9f295b82d77d",
+            "Link": "http://static.prsa.pl/music/f7d626ab-4db5-4ebc-9df3-9f295b82d77d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": null,
+            "Title": "Taksówki"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Crystal Castles",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Empathy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nicolai Carsten, Bender Olaf, Diamond Version",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Get Yours"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Julietta ",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Beach Break"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosaj Thing",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "All Points Back To U"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Austra",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "I Love You More Than You Love Yourself"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dissolve"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Dead Weather",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "I Feel Love (Every Million Miles)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nine Inch Nails",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Me, I'm not"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "O`Connor Sinead",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Jackie"
+        }
+    ],
+    "Start": "Wed, 08 Nov 2017 23:00:00",
+    "Stop": "Thu, 09 Nov 2017 00:00:00",
+    "Title": "Nocny TransPort"
+}

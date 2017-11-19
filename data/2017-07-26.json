@@ -1,0 +1,213 @@
+{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:03:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Nosowska",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:07:00",
+            "Title": "Nomada"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MICHAEL KIWANUKA",
+            "Duration": 30,
+            "FileId": "628045",
+            "FileUID": "ad602b7c-4093-47bd-b419-e05ee2e3e099",
+            "Link": "http://static.prsa.pl/music/ad602b7c-4093-47bd-b419-e05ee2e3e099.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:09:00",
+            "Title": "Cold Little Heart"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Girli",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:16:00",
+            "Title": "ASBOys"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Danny Brown",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:25:00",
+            "Title": "Float On"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Warpaint",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:26:00",
+            "Title": "Disco//Very"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Jones Norah, Outkast",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:32:00",
+            "Title": "Take off your cool"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Paula Temple",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:36:00",
+            "Title": "Colonized"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Sparklehorse",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:39:00",
+            "Title": "Eyepennies"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Pj Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 22:39:00",
+            "Title": "Dress"
+        }
+    ],
+    "Start": "Wed, 26 Jul 2017 22:00:00",
+    "Stop": "Wed, 26 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+}{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Aphex Twin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:06:00",
+            "Title": "Window Licker"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Bjork",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:07:00",
+            "Title": "Pluto"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Kanye West",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:09:00",
+            "Title": "I Am a God"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Rihanna",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:09:00",
+            "Title": "Desperado"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Radiohead",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:10:00",
+            "Title": "Decks Dark"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Meira Asher",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:35:00",
+            "Title": "Sida (AIDS)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "The Chemical Brothers",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 26 Jul 2017 23:43:00",
+            "Title": "EML Ritual"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Pj Harvey",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": null,
+            "Title": "Dress"
+        }
+    ],
+    "Start": "Wed, 26 Jul 2017 23:00:00",
+    "Stop": "Thu, 27 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+}

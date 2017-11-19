@@ -1,0 +1,356 @@
+{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "BJORK",
+            "Duration": 30,
+            "FileId": "9577",
+            "FileUID": "4f4d3e9a-5658-4ded-8744-f54c3636ccdd",
+            "Link": "http://static.prsa.pl/music/4f4d3e9a-5658-4ded-8744-f54c3636ccdd.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:08:00",
+            "Title": "Army Of Me"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PJ Harvey",
+            "Duration": 30,
+            "FileId": "54327",
+            "FileUID": "295a3e68-e470-4fc0-b735-915ae52e83af",
+            "Link": "http://static.prsa.pl/music/295a3e68-e470-4fc0-b735-915ae52e83af.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:13:00",
+            "Title": "Down By The Water"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amon Tobin",
+            "Duration": 30,
+            "FileId": "655926",
+            "FileUID": "2b5c1fd0-3949-4e81-8468-4c24fab6c8b0",
+            "Link": "http://static.prsa.pl/music/2b5c1fd0-3949-4e81-8468-4c24fab6c8b0.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:16:00",
+            "Title": "Esthers"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "MASSIVE ATTACK",
+            "Duration": 30,
+            "FileId": "52978",
+            "FileUID": "6379efe1-9a8b-4155-951a-470298dc8805",
+            "Link": "http://static.prsa.pl/music/6379efe1-9a8b-4155-951a-470298dc8805.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:19:00",
+            "Title": "Inertia Creeps"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Scratch Massive Feat Koudlam",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:24:00",
+            "Title": "Waiting For A Sign"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "LAMB",
+            "Duration": 30,
+            "FileId": "112974",
+            "FileUID": "e6b3a185-c936-40e3-9d73-803eed4d1deb",
+            "Link": "http://static.prsa.pl/music/e6b3a185-c936-40e3-9d73-803eed4d1deb.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:26:00",
+            "Title": "One"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Tricky",
+            "Duration": 30,
+            "FileId": "283004",
+            "FileUID": "39d1bce8-7a86-47f4-be45-1dab04b20bf4",
+            "Link": "http://static.prsa.pl/music/39d1bce8-7a86-47f4-be45-1dab04b20bf4.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:30:00",
+            "Title": "Joseph"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A.",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:32:00",
+            "Title": "The Message"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 30,
+            "FileId": "655927",
+            "FileUID": "2dbd120d-7333-40a9-8e7d-49912dfd05ae",
+            "Link": "http://static.prsa.pl/music/2dbd120d-7333-40a9-8e7d-49912dfd05ae.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:33:00",
+            "Title": "Dissolve"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Amon Tobin",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:34:00",
+            "Title": "Esther's"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "655928",
+            "FileUID": "3e1f506a-50c6-4417-8ddd-a33284b9edec",
+            "Link": "http://static.prsa.pl/music/3e1f506a-50c6-4417-8ddd-a33284b9edec.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:36:00",
+            "Title": "Toy"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Noga Erez",
+            "Duration": 30,
+            "FileId": "636883",
+            "FileUID": "e1a22ed4-b0ab-4ba1-84db-4328a53610f2",
+            "Link": "http://static.prsa.pl/music/e1a22ed4-b0ab-4ba1-84db-4328a53610f2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:38:00",
+            "Title": "Dance While You Shoot"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "M.I.A",
+            "Duration": 30,
+            "FileId": "655929",
+            "FileUID": "16de00cb-23dc-418f-b6e7-8f6212efe8e5",
+            "Link": "http://static.prsa.pl/music/16de00cb-23dc-418f-b6e7-8f6212efe8e5.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:43:00",
+            "Title": "Ali R U OK"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Silent Strike",
+            "Duration": 30,
+            "FileId": "655930",
+            "FileUID": "a832ace3-7429-4164-9147-0a7b871c21b2",
+            "Link": "http://static.prsa.pl/music/a832ace3-7429-4164-9147-0a7b871c21b2.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:48:00",
+            "Title": "Its Not Safe To Turn Off Your Computer (feat. EM)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Arca",
+            "Duration": 30,
+            "FileId": "655931",
+            "FileUID": "34bd3645-aeff-4d38-adac-c1996c82840f",
+            "Link": "http://static.prsa.pl/music/34bd3645-aeff-4d38-adac-c1996c82840f.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:52:00",
+            "Title": "Desafio"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Silent Strike feat. EM",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:55:00",
+            "Title": "It's Not Safe To Turn Off Your Computer (feat. EM)"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "SEVDALIZA",
+            "Duration": 30,
+            "FileId": "655932",
+            "FileUID": "8a763f91-8b31-4adc-90b3-5333a2713e1b",
+            "Link": "http://static.prsa.pl/music/8a763f91-8b31-4adc-90b3-5333a2713e1b.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 22:58:00",
+            "Title": "THE VALLEY"
+        }
+    ],
+    "Start": "Wed, 05 Jul 2017 22:00:00",
+    "Stop": "Wed, 05 Jul 2017 23:00:00",
+    "Title": "Nocny TransPort"
+}{
+    "Link": null,
+    "Songs": [
+        {
+            "AlbumTitle": null,
+            "Artist": "Emptyset",
+            "Duration": 30,
+            "FileId": "655933",
+            "FileUID": "4c2ca870-1e68-4787-8a18-6e1211b030ec",
+            "Link": "http://static.prsa.pl/music/4c2ca870-1e68-4787-8a18-6e1211b030ec.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:01:00",
+            "Title": "Speak"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Gazelle Twin",
+            "Duration": 30,
+            "FileId": "655934",
+            "FileUID": "93c81f7b-ee02-40fb-9468-478faf15d47d",
+            "Link": "http://static.prsa.pl/music/93c81f7b-ee02-40fb-9468-478faf15d47d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:03:00",
+            "Title": "This Is My Hand"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Zola Jesus",
+            "Duration": 30,
+            "FileId": "655935",
+            "FileUID": "0610c66d-f0cc-4838-a3be-a93d82ffbdce",
+            "Link": "http://static.prsa.pl/music/0610c66d-f0cc-4838-a3be-a93d82ffbdce.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:09:00",
+            "Title": "Exhumed"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "THE KILLS",
+            "Duration": 30,
+            "FileId": "624628",
+            "FileUID": "58ab659d-ee7c-4c1a-b5e8-d6147a0ff672",
+            "Link": "http://static.prsa.pl/music/58ab659d-ee7c-4c1a-b5e8-d6147a0ff672.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:12:00",
+            "Title": "Siberian Nights"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "TRENTEMOLLER",
+            "Duration": 30,
+            "FileId": "655936",
+            "FileUID": "04541601-5b71-4161-99d0-fa670ad23bca",
+            "Link": "http://static.prsa.pl/music/04541601-5b71-4161-99d0-fa670ad23bca.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:18:00",
+            "Title": "My Conviction"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Débruit & Alsarah",
+            "Duration": 0,
+            "FileId": null,
+            "FileUID": "",
+            "Link": null,
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:22:00",
+            "Title": "Jibal Alnuba"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Men in Burka",
+            "Duration": 30,
+            "FileId": "655937",
+            "FileUID": "3e32b724-1db5-441a-8104-8a429983804e",
+            "Link": "http://static.prsa.pl/music/3e32b724-1db5-441a-8104-8a429983804e.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:22:00",
+            "Title": "Click Click Click"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Men in Burka",
+            "Duration": 30,
+            "FileId": "655938",
+            "FileUID": "63b9d7d4-b3be-4455-8bcb-0b8c453bd235",
+            "Link": "http://static.prsa.pl/music/63b9d7d4-b3be-4455-8bcb-0b8c453bd235.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:25:00",
+            "Title": "More Khala"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Débruit & Alsarah",
+            "Duration": 30,
+            "FileId": "655940",
+            "FileUID": "e0ba39c6-2e0d-4b62-9f3a-2e3e458c38f5",
+            "Link": "http://static.prsa.pl/music/e0ba39c6-2e0d-4b62-9f3a-2e3e458c38f5.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:28:00",
+            "Title": "Jimba alnuba"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Debruit & Istanbul",
+            "Duration": 30,
+            "FileId": "655941",
+            "FileUID": "3576cfe8-c427-43b6-b4e5-9dfd3df03df7",
+            "Link": "http://static.prsa.pl/music/3576cfe8-c427-43b6-b4e5-9dfd3df03df7.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:33:00",
+            "Title": "Çevreler"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Annasir",
+            "Duration": 30,
+            "FileId": "655942",
+            "FileUID": "ae951a93-4c36-4678-a617-74c929da033d",
+            "Link": "http://static.prsa.pl/music/ae951a93-4c36-4678-a617-74c929da033d.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:36:00",
+            "Title": "Bol"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "Aisha Devi",
+            "Duration": 30,
+            "FileId": "655943",
+            "FileUID": "cf941ead-071b-46ab-9fde-13626b34d02a",
+            "Link": "http://static.prsa.pl/music/cf941ead-071b-46ab-9fde-13626b34d02a.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:40:00",
+            "Title": "1%"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "PORTISHEAD",
+            "Duration": 30,
+            "FileId": "419710",
+            "FileUID": "7015bdc5-b35c-4724-97f7-c48909887c06",
+            "Link": "http://static.prsa.pl/music/7015bdc5-b35c-4724-97f7-c48909887c06.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:45:00",
+            "Title": "Chase the Tear"
+        },
+        {
+            "AlbumTitle": null,
+            "Artist": "James Holden",
+            "Duration": 30,
+            "FileId": "543267",
+            "FileUID": "c0d8629a-f30a-421a-8bbf-c328eabd1ecd",
+            "Link": "http://static.prsa.pl/music/c0d8629a-f30a-421a-8bbf-c328eabd1ecd.mp3?source=mobileapi&stream=all",
+            "Photo": null,
+            "Start": "Wed, 05 Jul 2017 23:53:00",
+            "Title": "Renata"
+        }
+    ],
+    "Start": "Wed, 05 Jul 2017 23:00:00",
+    "Stop": "Thu, 06 Jul 2017 00:00:00",
+    "Title": "Nocny TransPort"
+}
