@@ -5,12 +5,14 @@ import sys
 import argparse
 from datetime import date, timedelta
 from urllib.request import urlopen
+#from urllib2 import urlopen
 import json
 import requests
 import re
 import spotipy
 import spotipy.util as util
 import pprint
+import unicodedata
 
 from bs4 import BeautifulSoup
 
@@ -21,6 +23,7 @@ SAVE_FILE_MP3 = "data/{}.mp3"
 AVAILABILITY_LOG = "availability.log"
 AVAILABLE_LOG = "available.log"
 UNAVAILABLE_LOG = "unavailable.log"
+PLAYLIST_TRACKS_IDS = "pl_tr_id.log"
 URL_RADIO = "https://www.polskieradio.pl"
 URL_AUDITION = URL_RADIO + "/10/6069/Strona/{}";
 HTTP = "http:{}"
@@ -36,6 +39,35 @@ def main(arguments):
 
     #downloadjson()
     add_tracks_to_playlist()
+    #get_playlist_tracks()
+    # results = sp.user_playlist("lenygot", "2wNndlDuIvPRVr6VUN5JAR", fields="tracks,next")
+    # arts = [str(unicodedata.normalize('NFKD', item['track']['artists'][0]['name']).encode('ascii', 'ignore'),'utf-8') + " " + str(unicodedata.normalize('NFKD', item['track']['name']).encode('ascii', 'ignore'),'utf-8') for item in results['tracks']['items']]
+    # for i, a in enumerate(arts):
+    #     print("{} {}".format(i, a))
+
+def get_playlist_tracks():
+    scope = 'playlist-modify-public'
+    token = util.prompt_for_user_token('lenygot', scope, client_id = 'c16cb518264d4a90ae5fbcabd8d417f7',
+         client_secret = '0a31c89f3c1147059095e854cafdfef4', redirect_uri = 'https://zizul.github.io/callback')
+    sp = spotipy.Spotify(auth=token)
+
+    total_count = 0;
+    available_count = 0
+
+    results = sp.user_playlist_tracks("lenygot", "2wNndlDuIvPRVr6VUN5JAR")
+    ids = [item['track']['id'] for item in results['items']]
+    #arts = [str(unicodedata.normalize('NFKD', item['track']['artists'][0]['name']).encode('ascii', 'ignore'),'utf-8') + " " + str(unicodedata.normalize('NFKD', item['track']['name']).encode('ascii', 'ignore'),'utf-8') for item in results['items']]
+    while results['next']:
+        results = sp.next(results)
+        ids.extend([item['track']['id'] for item in results['items']])
+        #arts.extend([str(unicodedata.normalize('NFKD', item['track']['artists'][0]['name']).encode('ascii', 'ignore'),'utf-8') + " " + str(unicodedata.normalize('NFKD', item['track']['name']).encode('ascii', 'ignore'),'utf-8') for item in results['items']])
+    # arts = [" ".join(a.lower().replace("ft.", "") \
+    #                     .replace("feat.", "").replace("PROD. BY ", "") \
+    #                     .replace("feat", "").replace("remix", "") \
+    #                     .replace("rework", "").replace("mix", "").replace("&", "").split()) for a in arts]
+    #for i, a in enumerate(arts):
+    #   print("{} {}".format(i, a))
+    return ids
 
 def add_tracks_to_playlist():
     with open(SAVE_FILE_JSON_ALL, encoding='utf-8') as data_file:
@@ -49,31 +81,55 @@ def add_tracks_to_playlist():
 
         total_count = 0;
         available_count = 0
-
+        #results = sp.user_playlist("lenygot", "2wNndlDuIvPRVr6VUN5JAR", fields="tracks,next")
+        pl_tracks = get_playlist_tracks()
+        i = 0
         with open(AVAILABILITY_LOG, 'w', encoding='utf8') as avaall, open(AVAILABLE_LOG, 'w', encoding='utf8') as ava, open(UNAVAILABLE_LOG, 'w', encoding='utf8') as unava:
             for audition in data:
                 for song in audition['Songs']:
                     total_count += 1
-                    
-                    qry = '{} {}'.format(song['Artist'], song['Title'])
-                    qry = qry.lower().replace("ft.", "") \
+
+                    artist = xstr(song['Artist']).lower().replace("ft.", "") \
                         .replace("feat.", "").replace("PROD. BY ", "") \
                         .replace("feat", "").replace("remix", "") \
                         .replace("rework", "").replace("mix", "").replace("&", "")
-                    results = sp.search(q=qry, limit=1)
-                    items = results['tracks']['items']
-                    if(len(items) > 0):
-                        artist = song['Artist'] 
-                        avaall.write(qry + ' ' + str(1) + "\n")
-                        ava.write(qry + "\n")
-                        print(qry + ' ' + str(1))
-                        #print(items[0]['name'])
-                        available_count += 1
-                        #add_res = sp.user_playlist_add_tracks('lenygot', '2wNndlDuIvPRVr6VUN5JAR', {items[0]['id']})
+                    title = song['Title'].lower().replace("ft.", "") \
+                        .replace("feat.", "").replace("PROD. BY ", "") \
+                        .replace("feat", "").replace("remix", "") \
+                        .replace("rework", "").replace("mix", "").replace("&", "")
+                    qry = '{} {}'.format(artist, title)
+                    qry = " ".join(qry.split())
+                    track_id = ""
+                    with open(PLAYLIST_TRACKS_IDS, 'r', encoding='utf8') as pl_tr_id:
+                        lines = pl_tr_id.readlines()
+                        #print(lines)
+                        for line in lines:
+                            #print("reading " + line)
+                            if qry in line:
+                                track_id = line.split(";")[1]
+                    if(track_id == ""):    
+                        results = sp.search(q=qry, limit=1)
+                        items = results['tracks']['items']
+                        if(len(items) > 0):
+                            with open(PLAYLIST_TRACKS_IDS, 'a', encoding='utf8') as pl_tr_id:
+                                pl_tr_id.write(qry + ";" + items[0]['id']+"\n")
+                                print("writing " + qry + ";" + items[0]['id'])
+                        #     artist = song['Artist'] 
+                        #     avaall.write(qry + ' ' + str(1) + "\n")
+                        #     ava.write(qry + "\n")
+                        #     print(qry + ' ' + str(1))
+                        #     #print(items[0]['name'])
+                        #     available_count += 1
+                        #     #add_res = sp.user_playlist_add_tracks('lenygot', '2wNndlDuIvPRVr6VUN5JAR', {items[0]['id']})
+                        # else: 
+                        #     results = sp.search(q=title, limit=1)
+                        #     arts = " ".join([art["name"] for art in results['tracks']['items'][0]['artists']])
+                        #     print("arts: " + arts)
+                        #     avaall.write(qry + ' ' + str(0) + "\n")
+                        #     unava.write(qry + "\n")
+                        #     print(qry + ' ' + str(0))
                     else:
-                        avaall.write(qry + ' ' + str(0) + "\n")
-                        unava.write(qry + "\n")
-                        print(qry + ' ' + str(0))
+                        print("### in playlist " + qry)
 
         print(str(total_count) + '/' +  str(available_count))
 
@@ -81,6 +137,11 @@ def add_tracks_to_playlist():
         # print('track id: ' + items[0]['name'] + ' ' + items[0]['id'])
 
         # results = sp.user_playlist_add_tracks('lenygot', '2wNndlDuIvPRVr6VUN5JAR', {items[0]['id']})    
+
+def xstr(s):
+    if s is None:
+        return ''
+    return s
 
 def downloadjson():
     with open(SAVE_FILE_JSON_ALL, 'w', encoding='utf8') as all:
