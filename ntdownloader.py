@@ -11,7 +11,8 @@ import re
 import spotipy
 import spotipy.util as util
 import pprint
-
+from tqdm import tqdm
+from clint.textui import progress
 from bs4 import BeautifulSoup
 
 URL = "http://apipr.polskieradio.pl/api/playlist?date={}&antenneId=4";
@@ -36,6 +37,7 @@ def main(arguments):
 
     #downloadjson()
     add_tracks_to_playlist()
+    #downloadmp3()
 
 def add_tracks_to_playlist():
     with open(SAVE_FILE_JSON_ALL, encoding='utf-8') as data_file:
@@ -108,24 +110,40 @@ def downloadmp3():
     for i in range(1, 9):
         f = urlopen(URL_AUDITION.format(i))
         soup = BeautifulSoup(f, "html.parser")
-        print(URL_AUDITION.format(i))
+        #print(URL_AUDITION.format(i))
         for i in soup.findAll('a', attrs={'href': re.compile('(?i).*6069/Artykul.*')}):
-            print(i['href'])
+            #print(i['href'])
             audition_day_url = i['href']
             audition_day_content = urlopen(URL_RADIO + audition_day_url).read().decode('utf-8')
             #print(fa)
             mp3_pattern = re.compile("source: '(.*?\.mp3)'")
             mp3_url = re.findall(mp3_pattern, audition_day_content)
             if(len(mp3_url) > 0):
-                print(mp3_url[0])
+                #print(mp3_url[0])
                 name_pattern = re.compile(",(.*)$")
                 audition_day_name = re.findall(name_pattern, audition_day_url)
-                print(audition_day_name[0])
-                print(HTTP.format(mp3_url[0]))
-                mp3_file = requests.get(HTTP.format(mp3_url[0]))
-                with open(SAVE_FILE_MP3.format(audition_day_name[0]), 'wb') as f:
-                    print(SAVE_FILE_MP3.format(audition_day_name[0]))
-                    f.write(mp3_file.content)
+                mp3_file_name = SAVE_FILE_MP3.format(audition_day_name[0])
+
+                file_head = requests.head(HTTP.format(mp3_url[0]))
+                total_size = int(file_head.headers.get('content-length', 0));
+                #print(format(os.path.isfile(mp3_file_name)))
+                if(os.path.isfile(mp3_file_name) and os.path.getsize(mp3_file_name) == total_size):
+                    print("skipping: " + audition_day_name[0])
+                else:
+                    print("downloading: " + audition_day_name[0])
+                    if(os.path.isfile(mp3_file_name)):
+                        print("size is: {}, should be: {}".format(os.path.getsize(mp3_file_name), total_size))
+                    print("   " + HTTP.format(mp3_url[0]))
+
+                    mp3_file = requests.get(HTTP.format(mp3_url[0]), stream=True)
+                    
+                    #print("   " + str(total_size))
+                    with open(mp3_file_name, 'wb') as f:
+                        for chunk in progress.bar(mp3_file.iter_content(chunk_size=1024), expected_size=(total_size/1024) + 1): 
+                        #for chunk in tqdm(mp3_file.iter_content(1), total=total_size, unit='B', unit_scale=True):    
+                            if chunk:
+                                f.write(chunk)
+                                f.flush()
 
 
 def allsundays(year):
