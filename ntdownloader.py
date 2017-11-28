@@ -12,7 +12,7 @@ import re
 import spotipy
 import spotipy.util as util
 import pprint
-from tqdm import tqdm
+#from tqdm import tqdm
 from clint.textui import progress
 import unicodedata
 
@@ -39,8 +39,8 @@ def main(arguments):
 
     args = parser.parse_args(arguments)
 
-    #downloadjson()
-    add_tracks_to_playlist()
+    downloadjson()
+    #add_tracks_to_playlist()
     #downloadmp3()
     #get_playlist_tracks()
 
@@ -164,7 +164,9 @@ def xstr(s):
 def downloadjson():
     with open(SAVE_FILE_JSON_ALL, 'w', encoding='utf8') as all:
         all.write("[")
-        for date in allsundays(2017):
+        wednesdays = allwednesdays(2017)
+
+        for i, date in enumerate(wednesdays):
             print(URL.format(date))
             jsn = requests.get(URL.format(date)).json()
             #pprint.pprint(jsn)
@@ -173,13 +175,20 @@ def downloadjson():
             if(len(jsn) > 0):
                 with open(SAVE_FILE_JSON.format(date), 'w', encoding='utf8') as f:
                     print(SAVE_FILE_JSON.format(date))
-                    print(len(jsn))
-                    json.dump(jsn[len(jsn)-2], f, indent=4, sort_keys=True, ensure_ascii=False)
-                    json.dump(jsn[len(jsn)-1], f, indent=4, sort_keys=True, ensure_ascii=False)
-                    json.dump(jsn[len(jsn)-2], all, indent=4, sort_keys=True, ensure_ascii=False)
-                    all.write(",")
-                    json.dump(jsn[len(jsn)-1], all, indent=4, sort_keys=True, ensure_ascii=False)
-                    all.write(",")
+                    if(jsn[len(jsn)-2]['Title'] != 'Nocny TransPort'):
+                        print("Error: Nocny TransPort 22:00 not found, is: " + jsn[len(jsn)-2]['Title'])
+                    else:
+                        if(i > 0):
+                            all.write(",")
+                        json.dump(jsn[len(jsn)-2], f, indent=4, sort_keys=True, ensure_ascii=False)
+                        json.dump(jsn[len(jsn)-2], all, indent=4, sort_keys=True, ensure_ascii=False)
+                    if(jsn[len(jsn)-1]['Title'] != 'Nocny TransPort'):
+                        print("Error: Nocny TransPort 23:00 not found, is: " + jsn[len(jsn)-1]['Title'])
+                    else:
+                        if(jsn[len(jsn)-2]['Title'] == 'Nocny TransPort'):
+                            all.write(",")
+                        json.dump(jsn[len(jsn)-1], f, indent=4, sort_keys=True, ensure_ascii=False)
+                        json.dump(jsn[len(jsn)-1], all, indent=4, sort_keys=True, ensure_ascii=False)
 
         all.write("]")
 
@@ -223,7 +232,7 @@ def downloadmp3():
                                 f.flush()
 
 
-def allsundays(year):
+def allwednesdays(year):
     d = date(year, 7, 1)                	
     d += timedelta(days = 9 - d.weekday())  # First Wednesday
     while d.year == year:
